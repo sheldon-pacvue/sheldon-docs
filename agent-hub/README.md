@@ -16,6 +16,7 @@
 
 ## 工程与发布
 
+- [[agent-hub/E2E测试案例]]
 - [[agent-hub/开发指南]]
 - [[agent-hub/发布与版本]]
 - [[agent-hub/变更记录]]
