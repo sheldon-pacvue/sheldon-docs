@@ -1,0 +1,8 @@
+# Obsidian 本地状态
+.obsidian/workspace.json
+
+# 插件敏感配置（含 GitHub Token）
+.obsidian/plugins/**/data.json
+
+# 临时/空文件
+未命名.base
